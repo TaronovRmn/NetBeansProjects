@@ -1,0 +1,40 @@
+.vote_container {
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	background: #fff;
+	box-shadow: 0 0 1px 1px #38201d;
+	border-radius: 5px;
+	padding: 20px 100px 20px 100px;
+}
+.vote_container div {
+}
+.vote_container input {
+    padding: 7px 5px;
+    margin: 10px;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+}
+.vote_container input[type="submit"] {
+	background: #38201d;
+    padding: 10px;
+    font-size: 20px;
+    display: block;
+    width: 280px;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote_container input[type="submit"]:hover {
+	background: #111;
+}
+.voting .container {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+}

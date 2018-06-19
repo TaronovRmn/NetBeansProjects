@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Dispatcher.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/beans/UserList.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/AddNote.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/RemoveNote.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/web/shedule.jsp</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/beans/NoteList.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Vote.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/beans/Answer.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/web/index.jsp</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Shedule.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Logout.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/web/error_registration.jsp</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/RemoveUser.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/web/success_registration.jsp</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/SearchUsers.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Registration.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/beans/Note.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Index.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/beans/User.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/web/admin.jsp</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/web/auth_error.jsp</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Auth.java</file>
+            <file>file:/C:/Users/taron/Documents/NetBeansProjects/beauty_studio_mvc/src/java/ru/bs/servlets/Admin.java</file>
+        </group>
+    </open-files>
+</project-private>
